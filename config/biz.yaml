@@ -1,0 +1,9 @@
+use_gpu: False
+ir_optim: True
+use_tensorrt: False
+use_fp16: False
+gpu_mem: 500
+vis_font_path: "simfang.ttf"
+drop_score: 0.5
+enable_mkldnn: False
+use_pdserving: False
